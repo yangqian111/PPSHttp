@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PPSHttp_Example' do
+  pod 'PPSHttp', :path => '../'
+
+  target 'PPSHttp_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

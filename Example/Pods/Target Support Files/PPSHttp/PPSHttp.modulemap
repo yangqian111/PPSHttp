@@ -1,0 +1,6 @@
+framework module PPSHttp {
+  umbrella header "PPSHttp-umbrella.h"
+
+  export *
+  module * { export * }
+}

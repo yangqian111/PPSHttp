@@ -1,0 +1,22 @@
+{
+  "name": "PPSHttp",
+  "version": "0.1.0",
+  "summary": "A short description of PPSHttp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ppsheep.qian@gmail.com/PPSHttp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ppsheep.qian@gmail.com": "ppsheep.qian@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ppsheep.qian@gmail.com/PPSHttp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PPSHttp/Classes/**/*"
+}

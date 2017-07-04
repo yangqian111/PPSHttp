@@ -1,0 +1,2 @@
+# PPSHttp
+虽然在网络框架中，已经有很成熟的AFNetwork、Alamofire等网络框架，但是最近的SDK项目，再在SDK中引入网络框架，相对有点臃肿，就自己写了一个简单的基于NSURLSession的网络基础框架，在SDK中使用
